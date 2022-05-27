@@ -25,3 +25,14 @@ export let students = [
         teacher: "9c932736-b656-11eb-8529-0242ac130003"
     }
 ]
+
+export let teachers = [
+    {
+        id: "9c9324e8-b656-11eb-8529-0242ac130003",
+        name: "Ms Jackson"
+    },
+    {
+        id: "1c250754-b656-11eb-8529-0242ac130003",
+        name: "Mr Wade"
+    }
+]
